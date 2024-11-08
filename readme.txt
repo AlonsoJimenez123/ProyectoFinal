@@ -1,3 +1,5 @@
+COLOCAR LAS IMAGENES EN UNA CARPETA LLAMADA "Images"
+
 BOT: CambioClimático [BOT]
 
 ------------COMANDOS------------
